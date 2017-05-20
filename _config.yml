@@ -1,0 +1,8 @@
+title: Zhefu.io
+description: 看山的男子
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
